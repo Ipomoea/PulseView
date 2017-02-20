@@ -39,6 +39,6 @@ func startAnimating()
 ```
 
 ```swift
-func stopAnimating())
+func stopAnimating()
 ```
 
