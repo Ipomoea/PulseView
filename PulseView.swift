@@ -1,6 +1,6 @@
 //
 //  PulseView.swift
-//  Vkino2
+//  PulseView
 //
 //  Created by Pavel Lukandiy on 16.02.17.
 //  Copyright © 2017 Павел. All rights reserved.
